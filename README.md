@@ -1,9 +1,9 @@
 # HDFT
-A high-dimension point cloud feature tensor based method for fine construction progress monitoring
+Accurate correspondence between BIM and construction instances using high-dimensional point cloud feature tensor
 
-  Construction progress monitoring plays a critical role in scientific project management due to a strong correlation between regular construction monitoring and compliant project schedule.
+  Accurate correspondences between as-designed BIM and as-built construction point cloud instances play a critical role in construction progress management.
 
-  In our study, we fully exploit the hierarchical geometric-semantic-instance information within BIM and establish a high-dimension point cloud feature tensor to propose an effective method (HDFT) for fine construction progress monitoring. HDFT can automatically, quantitatively, and visually capture the completion states of construction instances.
+  In our study, we fully exploit the hierarchical geometric-semantic-instance information within BIM and establish a high-dimension point cloud feature tensor to propose an effective method (HDFT) for accurate correspondence between BIM and construction instances. 
 
   HDFT contains a high-dimension point cloud feature tensor embedded network for BIM-to-construction semantic transferring and an incremental point-to-point correspondence estimation strategy for BIM-and-construction point cloud instance corresponding.
 
